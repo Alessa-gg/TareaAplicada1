@@ -1,0 +1,7 @@
+C:\Users\gonza\Downloads\InvestigacionAplicada1\InvestigacionAplicada1\CodigoFuente\GestorTareas\bin\Debug\GestorTareas.exe.config
+C:\Users\gonza\Downloads\InvestigacionAplicada1\InvestigacionAplicada1\CodigoFuente\GestorTareas\bin\Debug\GestorTareas.exe
+C:\Users\gonza\Downloads\InvestigacionAplicada1\InvestigacionAplicada1\CodigoFuente\GestorTareas\bin\Debug\GestorTareas.pdb
+C:\Users\gonza\Downloads\InvestigacionAplicada1\InvestigacionAplicada1\CodigoFuente\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\InvestigacionAplicada1\InvestigacionAplicada1\CodigoFuente\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\InvestigacionAplicada1\InvestigacionAplicada1\CodigoFuente\GestorTareas\obj\Debug\GestorTareas.exe
+C:\Users\gonza\Downloads\InvestigacionAplicada1\InvestigacionAplicada1\CodigoFuente\GestorTareas\obj\Debug\GestorTareas.pdb
